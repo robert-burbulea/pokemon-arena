@@ -224,14 +224,10 @@ public class Arena {
                 player1Ready = true;
                 player2Ready = false;
             }
-
-
         } catch (InterruptedException interruptedException) {
             interruptedException.printStackTrace();
         } finally {
             lock.unlock();
         }
     }
-
-
 }
