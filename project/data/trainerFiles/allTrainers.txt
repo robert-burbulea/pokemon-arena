@@ -1,0 +1,4 @@
+name age pokemons items
+Red 15 Jigglypuff Small Sword Meowth Shield  Christmas Tree Cloak Vest
+Dragon Tamer 22 Magic Wand Bulbasaur Psyduck  Cloak Vest
+Ash 13 Christmas Tree Pikachu Small Sword Charmander Eevee
