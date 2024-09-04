@@ -1,4 +1,8 @@
-# oop-project
+# Pokemon Arena
+
+This is a pokemon game that uses console input to battle another bot player in an arena, using multithreading.
+
+To start, follow the text from the console and input your options for your pokemon trainer, pokemon and miscellaneous items.
 
 Design patterns I used:
 
