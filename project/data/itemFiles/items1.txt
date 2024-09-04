@@ -1,0 +1,8 @@
+name HP attack specialAttack defense specialDefense
+Shield - - - +2 +2
+Vest +10 - - - -
+Small Sword - +3 - - -
+Magic Wand - - +3 - -
+Vitamins +2 +2 +2 - -
+Christmas Tree - +3 - +1 -
+Cloak - - - - +3

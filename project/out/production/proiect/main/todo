@@ -1,0 +1,24 @@
+1.Your enemy dodged the attack!, desi eu am dat dodge la un bot
+Schimba asta in numele pokemonului ca sa nu se confuzeze  EHHHH
+
+2. o interfata side by side cu pokemonii  DONE
+3. introducerea actiunilor in stanga si dreapta ecranului in functie de player 1 sau 2  IRELEVANT
+
+5. verifica daca merge stun-ul DONE
+
+6. verificare threads DONE
+
+7. trainerii au 3 pokemoni
+
+8. fisiere testare
+
+9. design patterns
+adapter: make a default pokemon interface, add Pokemonadapter class implements pokemon for the trainer's pokemons,
+because neutral pokemons can't cast spells
+
+observer: maybe for more spectators??
+
+
+use itemfactory to create attack items and defensive items,   the decorator to decorate the pokemons with it
+
+
